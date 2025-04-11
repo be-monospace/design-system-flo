@@ -1,0 +1,33 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-portal {
+  /* No radius */
+  --dscolorprimarydimensionborderradiusnone: 0px;
+  --dscolorprimarydimensionborderradiussmall: 4px;
+  --dscolorprimarydimensionborderradiusdefault: 6px;
+  --dscolorprimarydimensionborderradiusmedium: 8px;
+  --dscolorprimarydimensionborderradiuslarge: 16px;
+  /* Essentially a circle */
+  --dscolorprimarydimensionborderradiusfull: 999px;
+  --dscolorprimarydimensionspacing0: 0px;
+  --dscolorprimarydimensionspacing2: 2px;
+  --dscolorprimarydimensionspacing4: 4px;
+  --dscolorprimarydimensionspacing8: 8px;
+  --dscolorprimarydimensionspacing12: 12px;
+  --dscolorprimarydimensionspacing16: 16px;
+  --dscolorprimarydimensionspacing20: 20px;
+  --dscolorprimarydimensionspacing24: 24px;
+  --dscolorprimarydimensionspacing28: 28px;
+  --dscolorprimarydimensionspacing32: 32px;
+  --dscolorprimarydimensionspacing36: 36px;
+  --dscolorprimarydimensionspacing40: 40px;
+  --dscolorprimarydimensionspacingsemanticstackgap: 1px;
+  --dscolorprimarydimensionopacitydisabled: 50px;
+  --dscolorprimarydimensionshadowfocusringwidth: 3px;
+  --dscolorprimarydimensiondimensionsdefault: 32px;
+  --dscolorprimarydimensiondimensionssmall: 28px;
+  --dscolorprimarydimensiondimensionslarge: 28px;
+}

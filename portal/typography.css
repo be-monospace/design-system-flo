@@ -1,0 +1,29 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-portal {
+  --dscolorprimarytypographyh1: 700 57px/64px "Roboto";
+  --dscolorprimarytypographyh2: 700 43px/50px "Roboto";
+  --dscolorprimarytypographyh3: 700 32px/40px "Roboto";
+  --dscolorprimarytypographyh4: 700 24px/32px "Roboto";
+  --dscolorprimarytypographyh5: 700 21px/29px "Roboto";
+  --dscolorprimarytypographylargelead: 400 24px/32px "Roboto";
+  --dscolorprimarytypographymediumlead: 400 21px/29px "Roboto";
+  --dscolorprimarytypographybuttonlabel: 400 21px/29px "Roboto";
+  --dscolorprimarytypographyparagraph: 400 18px/26px "Roboto";
+  --dscolorprimarytypographysmallparagraph: 400 16px/24px "Roboto";
+  --dscolorprimarytypographytinyparagraph: 400 12px/24px "Roboto";
+  --dscolorprimarytypographysale: 700 24px/34px "Roboto";
+  --dscolorprimarytypographyheading1: 700 60px/72px "Inter";
+  --dscolorprimarytypographyheading2: 700 48px/64px "Inter";
+  --dscolorprimarytypographyheading3: 500 40px/48px "Inter";
+  --dscolorprimarytypographysubtitle1: 400 28px/40px "Inter";
+  --dscolorprimarytypographysubtitle2: 700 18px/28px "Inter";
+  --dscolorprimarytypographybody1medium: 400 18px/28px "Inter";
+  --dscolorprimarytypographybody2medium: 400 16px/24px "Inter";
+  --dscolorprimarytypographybody2semibold: 600 16px/24px "Inter";
+  --dscolorprimarytypographybody1semibold: 700 18px/28px "Inter";
+  --dscolorprimarytypographybody2regular: 400 16px/24px "Inter";
+}
