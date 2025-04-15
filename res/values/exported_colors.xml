@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#ff000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="white">#ffffffff</color>
+
+    <color name="foreground_primary_faded">#ff406ec5</color>
+    <color name="foreground_neutral">#ff000001</color>
+    <color name="foreground_neutral_faded">#ff66728a</color>
+    <color name="foreground_neutral_placeholder">#ff8390a9</color>
+    <color name="foreground_disabled">#ffa2aec8</color>
+    <color name="foreground_primary">#ff1a58d0</color>
+    <color name="foreground_critical">#ffbe0021</color>
+    <color name="foreground_warning">#ffac3500</color>
+    <color name="foreground_positive">#ff00792d</color>
+    <color name="foreground_upgrade">#ff7400ef</color>
+    <color name="foreground_critical_faded">#ffbd4143</color>
+    <color name="foreground_warning_faded">#ffa95836</color>
+    <color name="foreground_positive_faded">#ff448251</color>
+    <color name="foreground_upgrade_faded">#ff7d44e9</color>
+
+    <color name="foreground_decorative_blue">#ff0059d6</color>
+    <color name="foreground_decorative_cyan">#ff007592</color>
+    <color name="foreground_decorative_teal">#ff007b68</color>
+    <color name="foreground_decorative_green">#ff008000</color>
+    <color name="foreground_decorative_yellow">#ff8a5900</color>
+    <color name="foreground_decorative_orange">#ffaa3a00</color>
+    <color name="foreground_decorative_red">#ffc80000</color>
+    <color name="foreground_decorative_pink">#ffbd006c</color>
+    <color name="foreground_decorative_fuchsia">#ffa800c2</color>
+    <color name="foreground_decorative_purple">#ff722adc</color>
+    <color name="foreground_decorative_grey">#ff53647e</color>
+    <color name="foreground_decorative_light_grey">#ff636363</color>
+
+    <color name="background_blur_neutral_faded">#ebf8f9fb</color>
+    <color name="background_elevation_base">#ffffffff</color>
+    <color name="background_elevation_raised">#fffeffff</color>
+    <color name="background_elevation_overlay">#fffeffff</color>
+    <color name="background_neutral">#0f606162</color>
+    <color name="background_neutral_faded">#08606162</color>
+    <color name="background_neutral_highlighted">#17606162</color>
+    <color name="background_page">#ffffffff</color>
+    <color name="background_page_faded">#fff8f9fb</color>
+    <color name="background_primary">#ff104fc6</color>
+    <color name="background_primary_highlighted">#ff0038ae</color>
+    <color name="background_primary_faded">#1745adff</color>
+    <color name="background_critical">#ffc50027</color>
+    <color name="background_critical_highlighted">#ffac000f</color>
+    <color name="background_critical_faded">#17ff2b53</color>
+    <color name="background_warning">#ffd0571e</color>
+    <color name="background_warning_highlighted">#ffb84100</color>
+    <color name="background_warning_faded">#17ff6a00</color>
+    <color name="background_positive">#ff008236</color>
+    <color name="background_positive_highlighted">#ff006d21</color>
+    <color name="background_positive_faded">#1700e657</color>
+    <color name="background_upgrade">#ff7f22fe</color>
+    <color name="background_upgrade_highlighted">#ff6d00e5</color>
+    <color name="background_upgrade_faded">#17d45dff</color>
+    <color name="background_blur">#ebffffff</color>
+    <color name="background_blur_neutral">#f2f4f5f7</color>
+    <color name="background_blur_neutral_highlighted">#ebf1f2f4</color>
+    <color name="background_disabled">#0f606162</color>
+    <color name="background_disabled_faded">#05141a2b</color>
+    <color name="background_focus_highlight">#ffd0e2ff</color>
+
+    <color name="background_decorative_blue">#ff2b7fff</color>
+    <color name="background_decorative_blue_faded">#1715afff</color>
+    <color name="background_decorative_cyan_faded">#1700dfff</color>
+    <color name="background_decorative_teal_faded">#1700ebc8</color>
+    <color name="background_decorative_green_faded">#1700ee20</color>
+    <color name="background_decorative_yellow_faded">#17fff000</color>
+    <color name="background_decorative_orange_faded">#17ff7800</color>
+    <color name="background_decorative_red_faded">#17ff0000</color>
+    <color name="background_decorative_pink_faded">#17ff00cb</color>
+    <color name="background_decorative_fuchsia_faded">#17ff00ff</color>
+    <color name="background_decorative_purple_faded">#17d371ff</color>
+    <color name="background_decorative_grey_faded">#1780bfff</color>
+    <color name="background_decorative_light_grey_faded">#17bebebe</color>
+    <color name="background_decorative_cyan">#ff00d3f2</color>
+    <color name="background_decorative_teal">#ff00d5be</color>
+    <color name="background_decorative_green">#ff31de69</color>
+    <color name="background_decorative_yellow">#fffcc801</color>
+    <color name="background_decorative_orange">#ffff8904</color>
+    <color name="background_decorative_red">#fffb2e27</color>
+    <color name="background_decorative_pink">#fff6339a</color>
+    <color name="background_decorative_fuchsia">#ffe12afb</color>
+    <color name="background_decorative_purple">#ff8e51ff</color>
+    <color name="background_decorative_grey">#ff62748e</color>
+    <color name="background_decorative_light_grey">#ffd4d4d4</color>
+
+    <color name="on_background_neutral">#ff000000</color>
+    <color name="on_background_primary">#ffffffff</color>
+    <color name="on_background_critical">#ffffffff</color>
+    <color name="on_background_warning">#ffffffff</color>
+    <color name="on_background_positive">#ffffffff</color>
+    <color name="on_background_upgrade">#ffffffff</color>
+
+    <color name="on_background_decorative_blue">#ffffffff</color>
+    <color name="on_background_decorative_cyan">#ff001e3a</color>
+    <color name="on_background_decorative_teal">#ff002116</color>
+    <color name="on_background_decorative_green">#ff002500</color>
+    <color name="on_background_decorative_yellow">#ff421100</color>
+    <color name="on_background_decorative_orange">#ff350000</color>
+    <color name="on_background_decorative_red">#ffffffff</color>
+    <color name="on_background_decorative_pink">#ffffffff</color>
+    <color name="on_background_decorative_fuchsia">#ffffffff</color>
+    <color name="on_background_decorative_purple">#ffffffff</color>
+    <color name="on_background_decorative_grey">#ffffffff</color>
+    <color name="on_background_decorative_light_grey">#ff262626</color>
+
+    <color name="border_neutral">#26000000</color>
+    <color name="border_neutral_faded">#13000000</color>
+    <color name="border_primary">#ff1a58d0</color>
+    <color name="border_primary_faded">#4d5699ff</color>
+    <color name="border_critical">#ffbe0021</color>
+    <color name="border_critical_faded">#4dff595d</color>
+    <color name="border_warning">#ffac3500</color>
+    <color name="border_warning_faded">#4df17541</color>
+    <color name="border_positive">#ff00792d</color>
+    <color name="border_positive_faded">#4d50b769</color>
+    <color name="border_upgrade">#ff7400ef</color>
+    <color name="border_upgrade_faded">#4dac67ff</color>
+    <color name="border_disabled">#ffdfe2ea</color>
+    <color name="border_focus">#ff1a58d0</color>
+    <color name="border_focus_faded">#4d5699ff</color>
+
+    <color name="border_decorative_blue">#ff0059d6</color>
+    <color name="border_decorative_blue_faded">#4d4699ff</color>
+    <color name="border_decorative_cyan_faded">#4d00b4d2</color>
+    <color name="border_decorative_teal_faded">#4d00baa4</color>
+    <color name="border_decorative_green_faded">#4d00c04c</color>
+    <color name="border_decorative_yellow_faded">#4dc99600</color>
+    <color name="border_decorative_orange_faded">#4def7a00</color>
+    <color name="border_decorative_red_faded">#4dff4a3d</color>
+    <color name="border_decorative_pink_faded">#4dff46a8</color>
+    <color name="border_decorative_fuchsia_faded">#4ded3bff</color>
+    <color name="border_decorative_purple_faded">#4dab73ff</color>
+    <color name="border_decorative_grey_faded">#4d8da0bb</color>
+    <color name="border_decorative_cyan">#ff007592</color>
+    <color name="border_decorative_teal">#ff007b68</color>
+    <color name="border_decorative_green">#ff008000</color>
+    <color name="border_decorative_yellow">#ff8a5900</color>
+    <color name="border_decorative_orange">#ffaa3a00</color>
+    <color name="border_decorative_red">#ffc80000</color>
+    <color name="border_decorative_pink">#ffbd006c</color>
+    <color name="border_decorative_fuchsia">#ffa800c2</color>
+    <color name="border_decorative_purple">#ff722adc</color>
+    <color name="border_decorative_grey">#ff53647e</color>
+    <color name="border_decorative_light_grey">#ff636363</color>
+    <color name="border_decorative_light_grey_faded">#4d9e9e9e</color>
+
+    <color name="orange_orange_400">#ffff9250</color>
+    <color name="orange_900">#ff332200</color>
+    <color name="orange_800">#ff664200</color>
+    <color name="orange_700">#ff996000</color>
+    <color name="orange_600">#ffcc7c00</color>
+    <color name="orange_500">#ffff9500</color>
+    <color name="orange_400">#ffffb23b</color>
+    <color name="orange_300">#ffffcc75</color>
+    <color name="orange_200">#ffffe3b0</color>
+    <color name="orange_100">#fffff8eb</color>
+    <color name="orange_orange_100">#fffef8eb</color>
+    <color name="orange_orange_200">#fffbe5c5</color>
+    <color name="orange_orange_500">#ffcc4d00</color>
+    <color name="orange_orange_600">#ffb53c0a</color>
+
+    <color name="purple_900">#ff020a33</color>
+    <color name="purple_800">#ff0c1a66</color>
+    <color name="purple_700">#ff1d2f99</color>
+    <color name="purple_600">#ff354acb</color>
+    <color name="purple_500">#ff556aeb</color>
+    <color name="purple_400">#ff6e82fe</color>
+    <color name="purple_300">#ff8fa0ff</color>
+    <color name="purple_200">#ffb9c4ff</color>
+    <color name="purple_100">#ffebefff</color>
+    <color name="purple_purple_100">#fff5f2fd</color>
+    <color name="purple_purple_600">#ff874ce6</color>
+    <color name="purple_purple_700">#ff6a2bbf</color>
+
+    <color name="primary_primary_200">#ffedf5ff</color>
+    <color name="primary_primary_400">#ffd0e2ff</color>
+    <color name="primary_primary_500">#ff8cb4ff</color>
+    <color name="primary_primary_600">#ff0f62fe</color>
+    <color name="primary_primary_700">#ff004ee1</color>
+    <color name="primary_primary_800">#ff104fc6</color>
+
+    <color name="decorative_light_grey_border">#ffedeff3</color>
+
+
+    <color name="neutral_black">#ff000000</color>
+    <color name="neutral_900">#ff212529</color>
+    <color name="neutral_800">#ff343a40</color>
+    <color name="neutral_700">#ff495057</color>
+    <color name="neutral_600">#ff6c757d</color>
+    <color name="neutral_500">#ffadb5bd</color>
+    <color name="neutral_400">#ffced4da</color>
+    <color name="neutral_300">#ffdee2e6</color>
+    <color name="neutral_200">#ffe9ecef</color>
+    <color name="neutral_100">#fff8f9fa</color>
+    <color name="neutral_neutral_100_opaque">#05141a2b</color>
+    <color name="neutral_neutral_200_opaque">#0a182d66</color>
+    <color name="neutral_neutral_400">#ff606981</color>
+    <color name="neutral_neutral_500">#ffc7cddb</color>
+    <color name="neutral_neutral_900">#ff14171f</color>
+
+    <color name="red_red_100">#fffef1f2</color>
+    <color name="red_red_600">#ffcb101d</color>
+
+    <color name="blue_900">#ff001733</color>
+    <color name="blue_800">#ff002f66</color>
+    <color name="blue_700">#ff004899</color>
+    <color name="blue_600">#ff0061cc</color>
+    <color name="blue_500">#ff007aff</color>
+    <color name="blue_400">#ff3b98ff</color>
+    <color name="blue_300">#ff75b6ff</color>
+    <color name="blue_200">#ffb0d5ff</color>
+    <color name="blue_100">#ffebf4ff</color>
+
+    <color name="green_green_100">#ffebfef6</color>
+    <color name="green_green_600">#ff05751f</color>
+
+    <color name="persistent_black">#ff000000</color>
+    <color name="persistent_white">#ffffffff</color>
+
+
+</resources>
